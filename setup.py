@@ -12,6 +12,7 @@ setup(
         'arpeggio ~= 1.10',
         'attrs ~= 20.3',
         'click ~= 7.1',
+        'marshmallow ~= 3.9',
         'more-itertools ~= 8.0',
         'python-dotenv >= 0.15',
         'requests ~= 2.25',
