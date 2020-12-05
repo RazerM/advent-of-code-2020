@@ -9,6 +9,7 @@ setup(
     license='MIT',
     packages=find_packages(),
     install_requires=[
+        'arpeggio ~= 1.10',
         'attrs ~= 20.3',
         'click ~= 7.1',
         'more-itertools ~= 8.0',
