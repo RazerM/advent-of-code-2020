@@ -14,6 +14,7 @@ setup(
         'click ~= 7.1',
         'marshmallow ~= 3.9',
         'more-itertools ~= 8.0',
+        'networkx ~= 2.5',
         'python-dotenv >= 0.15',
         'requests ~= 2.25',
         'sortedcontainers ~= 2.3',
