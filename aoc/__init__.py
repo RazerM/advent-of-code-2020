@@ -16,5 +16,6 @@ from . import day15
 from . import day16
 from . import day17
 from . import day18
+from . import day19
 
 from .registry import get_solver

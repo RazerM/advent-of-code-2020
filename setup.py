@@ -16,6 +16,7 @@ setup(
         'more-itertools ~= 8.0',
         'networkx ~= 2.5',
         'python-dotenv >= 0.15',
+        'regex >= 2020.11.13',
         'requests ~= 2.25',
         'sortedcontainers ~= 2.3',
     ],
