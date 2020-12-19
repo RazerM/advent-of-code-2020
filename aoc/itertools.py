@@ -10,3 +10,7 @@ def minmax(iterable):
 
 def take(n, iterable):
     return list(islice(iterable, n))
+
+
+def nth(iterable, n):
+    return next(islice(iterable, n, None))
